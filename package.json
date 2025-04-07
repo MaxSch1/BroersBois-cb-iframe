@@ -1,0 +1,8 @@
+{
+  "name": "broersbois-cb-iframe",
+  "version": "1.0.0",
+  "description": "Chatbot iframe interface",
+  "scripts": {
+    "build": "echo 'No build step required for static HTML'"
+  }
+} 
